@@ -1,0 +1,25 @@
+English: en, en-US, en-GB
+Spanish: es, es-ES, es-MX
+French: fr, fr-FR, fr-CA
+German: de, de-DE
+Italian: it, it-IT
+Portuguese: pt, pt-PT, pt-BR
+Russian: ru
+Ukrainian: uk
+Chinese (simplified): zh, zh-CN
+Chinese (traditional): zh-TW
+Japanese: ja
+Korean: ko
+Arabic: ar, ar-SA
+Dutch: nl, nl-NL
+Swedish: sv, sv-SE
+Polish: pl
+Danish: da, da-DK
+Norwegian: no, no-NO
+Finnish: fi, fi-FI
+Czech: cs, cs-CZ
+Hungarian: hu, hu-HU
+Romanian: ro, ro-RO
+Bulgarian: bg, bg-BG
+Slovenian: sl, sl-SI
+Croatian: hr, hr-HR
