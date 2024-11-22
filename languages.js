@@ -3,6 +3,9 @@ const langCode = userLang.substring(0, 2);
 
 // Translations
 const translations = {
+    en: {
+    welcome: 'Welcome',
+    },
     ru: {
         welcome: 'Добро пожаловать',
     },
